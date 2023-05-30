@@ -19,7 +19,7 @@ and the player has four turns to guess the location of the ship and sink it.
 - "X" represents a missed shot.
 - "B" represents the ship (hidden until found).
 
-## Example Gameplay
+## Example 
 
 Turn 1
 Guess Row: 2
