@@ -63,3 +63,18 @@ O O O O O
 
 Game Over! The battleship was located at (2,2).![se-battle1](https://github.com/NsimaPeter/Sea-Battle/assets/122939682/95135c02-ffda-4297-9a1d-f19f131a0ce2)
 ![sea-battle 2](https://github.com/NsimaPeter/Sea-Battle/assets/122939682/afbf2e6d-4e56-4177-bca4-edcf8e167df4)
+
+# Testing
+* Passed througha PEP8 python validator and comfirmed there was no problem
+* Tested on my local terminal
+
+# Bugs
+#remaining Bugs
+* No bugs remaining
+
+# Deployment
+the project is deployed on this hosting plaform Github pages through this steps
+*  in the Github repository, goto settings tab
+*  Then in the menu on the left hand side we click on "Pages"
+*  And from there you will see Github Pages where you can select your branch to deploy: Main
+*  and It'll take a few minutes to build your project, wait a bit and then refresh the page and it will have the link to the deployed project
